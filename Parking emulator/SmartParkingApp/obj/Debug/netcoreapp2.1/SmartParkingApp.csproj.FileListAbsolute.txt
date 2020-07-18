@@ -1,0 +1,12 @@
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.deps.json
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.runtimeconfig.json
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.runtimeconfig.dev.json
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.dll
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\bin\Debug\netcoreapp2.1\SmartParkingApp.pdb
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.csprojAssemblyReference.cache
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.csproj.CoreCompileInputs.cache
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.AssemblyInfoInputs.cache
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.AssemblyInfo.cs
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.dll
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.pdb
+D:\ВШЭ 2 курс\C#\кдзэшки_1\parking\Parking\SmartParkingApp\obj\Debug\netcoreapp2.1\SmartParkingApp.genruntimeconfig.cache
