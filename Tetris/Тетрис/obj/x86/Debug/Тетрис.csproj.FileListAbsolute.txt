@@ -1,0 +1,9 @@
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\bin\Debug\Тетрис.exe
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\bin\Debug\Тетрис.pdb
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\Тетрис.Form1.resources
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\Тетрис.Properties.Resources.resources
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\Тетрис.exe
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Debug\Тетрис.pdb

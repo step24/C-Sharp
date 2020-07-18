@@ -1,0 +1,49 @@
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\bin\Release\Тетрис.exe
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\bin\Release\Тетрис.pdb
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.Form1.resources
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.Properties.Resources.resources
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+C:\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\bin\Release\Тетрис.exe
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\bin\Release\Тетрис.pdb
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.Form1.resources
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.Properties.Resources.resources
+D:\Documents\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.csproj.GenerateResource.Cache
+D:\Documents\Разные сливы отовсюду\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+D:\Documents\Разные сливы отовсюду\Сливы со старых винд\С винды 7\Users\ARTEM\Documents\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\bin\Release\Тетрис.exe
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\bin\Release\Тетрис.pdb
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.Form1.resources
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.Properties.Resources.resources
+D:\Documents\Разное\Полезное по АЧМ + проги C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.csproj.GenerateResource.Cache
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\bin\Release\Тетрис.exe
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\bin\Release\Тетрис.pdb
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.Form1.resources
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.Properties.Resources.resources
+D:\Documents\Преподавание\Рубен C# ВШЭ\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.csproj.GenerateResource.Cache
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\bin\Release\Тетрис.exe
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\bin\Release\Тетрис.pdb
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.csprojAssemblyReference.cache
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.Form1.resources
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.Properties.Resources.resources
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.csproj.GenerateResource.cache
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+C:\Users\степан\Desktop\Тетрис_Рубену\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\bin\Release\Тетрис.exe
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\bin\Release\Тетрис.pdb
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.csprojAssemblyReference.cache
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.Form1.resources
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.Properties.Resources.resources
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.csproj.GenerateResource.cache
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.csproj.CoreCompileInputs.cache
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.exe
+D:\ВШЭ 2 курс\C#\Тетрис\Тетрис\obj\x86\Release\Тетрис.pdb
